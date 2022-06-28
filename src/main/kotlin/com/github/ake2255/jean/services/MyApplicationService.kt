@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ake2255.jean.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ake2255.jean.MyBundle
 
 class MyApplicationService {
 
